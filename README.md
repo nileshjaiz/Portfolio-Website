@@ -66,14 +66,45 @@ This project helped me gain hands-on experience in:
 
 ---
 
+## 📤 Deployment
+Deployed using Vercel:
+
+1)Super fast CI/CD integration
+
+2)Auto-redeployment on each push
+
+3)Free HTTPS and global CDN
+
+## 🌟 Acknowledgements
+
+1)Inspired by modern developer portfolios
+
+2)Built completely from scratch by Nilesh Jaiswal
+
+3)Mentored, guided, and improved with the help of AI (ChatGPT)
+
+## 📫 Contact
+Reach out anytime:
+
+✉️ Email: nilesh.jaiswal9798@gmail.com
+
+🔗 LinkedIn: linkedin.com/in/nilesh-jaiswal31
+
+💻 GitHub: github.com/nileshjaiz
+
+🧡 Made with love using React + Tailwind
+© 2025 Nilesh Jaiswal
+
 ## 🛠️ Setup & Run Locally
 
 ```bash
 # Clone the repo
 git clone https://github.com/nileshjaiz/portfolio-website.git
+
 cd portfolio-website
 
 # Install dependencies
+
 npm install
 
 # Run the dev server
